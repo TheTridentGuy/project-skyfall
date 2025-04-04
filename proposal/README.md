@@ -13,9 +13,11 @@
 - We would need either 2 or 4 servos for the fins, and servos with sufficient torque are expensive, and potentially heavy.
 - It would be another payload we have to track down and recover.
 - We need a safe way to detach from the other payloads.
+- Unusual shape, and it's not in a foam box, but I really think it can be made to work.
 ## Safety/legal:
 - Being guided, skyfall would be the safest payload on the ballon.
 - Parachute is always deployed, minimizing the risk of recovery failure.
+- Payload is basically a glorified dropsonde, which the NWS launches without parachutes on a daily basis.
 - Despite being guided, skyfall is primarily a drag device, and thus not subject to FAA UAS regulations.
 ## General components list:
 - Battery
