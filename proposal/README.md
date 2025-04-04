@@ -3,6 +3,8 @@
 ## Goals:
 - Safely guide a payload to a pre-designated location on the ground.
 - Use GPS for rough guidance, and a FPV camera for final guidance.
+## Data gathered:
+- Our project is less about data, and more about experience, and hopefully being able to successfully guide a payload, but we will do our best to record FPV, and obviously we'll have GPS data to go with it.
 ## Design:
 > CAD sketch is here: https://cad.onshape.com/documents/9a16aefde3d481029942141d/w/924ca9cb43d0417fb42f3d56/e/2a70d232c3196c04c939c1ef?renderMode=0&uiState=67f0615d9877b93a1bfcb1d7
 - "Dropsonde with fins"
