@@ -10,4 +10,5 @@
 - https://kstservos.com/products/x06-v6-0-hv-micro-digital-metal-gear-glider-1-8kg-torque-servo-motor
 
 ## Notes:
-- might be able to get away with normal servos, I intend to cold test them some point in the future.
+- might be able to get away with normal sg90 servos, I intend to cold test them some point in the future.
+- #### ^ really hoping we can get away with this
