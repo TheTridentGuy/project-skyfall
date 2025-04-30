@@ -1,4 +1,4 @@
-# Servos
+# Servo research
 ## Places to look:
 - https://www.mksservosusa.com/home.php
 
